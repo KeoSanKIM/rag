@@ -1,12 +1,9 @@
 streamlit
 langchain
-dotenv
+langchain-openai
+langchain-community
+python-dotenv
 pdfminer.six
+faiss-cpu
+openai
 
-langchain.text_splitter 
-langchain.vectorstores 
-langchain.embeddings 
-langchain.chat_models 
-langchain.schema 
-langchain.callbacks.base 
-langchain.schema 

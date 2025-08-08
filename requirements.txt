@@ -2,4 +2,11 @@ streamlit
 langchain
 dotenv
 pdfminer.six
-langchain_community.vectorstores
+
+langchain.text_splitter 
+langchain.vectorstores 
+langchain.embeddings 
+langchain.chat_models 
+langchain.schema 
+langchain.callbacks.base 
+langchain.schema 
